@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`afriaFactory #createPool gas 1`] = `4557092`;
+
+exports[`afriaFactory factory bytecode size 1`] = `24535`;
+
+exports[`afriaFactory pool bytecode size 1`] = `22142`;
