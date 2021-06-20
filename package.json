@@ -1,19 +1,19 @@
 {
   "name": "@afria/afria-core",
   "description": "Core smart contracts for the Afria Protocol",
-  "license": "BUSL-1.1",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "version": "1.0.0",
-  "homepage": "",
+  "homepage": "https://github.com/AfriaDev/afria-core#readme",
   "keywords": [
     "afria",
     "core"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AfriaDev/afria-core"
+    "url": "git+https://github.com/AfriaDev/afria-core.git"
   },
   "files": [
     "contracts/interfaces",
@@ -56,5 +56,13 @@
   "scripts": {
     "compile": "hardhat compile",
     "test": "hardhat test"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/AfriaDev/afria-core/issues"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "AfriaDevTeam"
 }
