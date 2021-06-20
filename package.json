@@ -1,6 +1,6 @@
 {
   "name": "@afria/afria-core",
-  "description": "Core smart contracts for the Afria Dex Protocol",
+  "description": "Core smart contracts for the Afria Protocol",
   "license": "BUSL-1.1",
   "publishConfig": {
     "access": "public"
